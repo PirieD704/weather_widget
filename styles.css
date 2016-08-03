@@ -1,0 +1,25 @@
+body{
+	background-image: url("img/sunnyDay.jpg");
+}
+
+.weather-form-wrapper{
+	text-align: center;
+	margin-top: 100px;
+}
+
+.canvas-wrapper{
+	margin-top: 45px;
+	border: 2px solid blue;
+	background-color: rgba(55, 163, 252, 0.5);
+ 	border-radius: 4%;
+}
+
+.left-canvas-wrapper{
+ margin-top: 45px;
+ font-size: 28px;
+}
+
+
+.right-canvas-wrapper{
+	margin-top: 45px;
+}
